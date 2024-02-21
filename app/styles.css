@@ -1,0 +1,17 @@
+body {
+    background-color: #000000;
+
+    overflow-x: hidden;
+}
+
+.canvas {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    
+    overflow: hidden;
+}
